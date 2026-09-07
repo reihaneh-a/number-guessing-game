@@ -3,7 +3,7 @@ import random
 while True:
 
     number = random.randint(1, 999)
-    print(number)
+    # print(number)
 
     print("من یک عدد انتخاب کردم! ")
     print("حدس بزن عدد چیست!")

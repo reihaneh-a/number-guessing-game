@@ -4,7 +4,7 @@ while True:
 
     digit_len = random.randint(1, 6)
     number = random.randint(1, 9) if digit_len == 1 else random.randint(10 ** (digit_len - 1), 10 ** digit_len - 1)
-    print(number)
+    # print(number)
 
     print("من یک عدد انتخاب کردم! ")
     print("حدس بزن عدد چیست!")
